@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Printers_Toolkit.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DhcpServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DhcpServerAddress</Value>
+    </Setting>
+    <Setting Name="DbConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=server;Initial Catalog=database;Integrated Security=SSPI</Value>
+    </Setting>
+    <Setting Name="TableName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TableName</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
